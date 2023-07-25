@@ -3,4 +3,8 @@ An application that runs Data Analysis &amp; Machine Learning on a Kaggle databa
 Kaggle Database: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 # Version 0.1
-Dataset management in progress
+Dataset management in progress.
+
+# Veersion 0.2
+Data visualization graphics added.
+Data Analysis and feature engineering completed.
