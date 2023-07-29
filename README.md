@@ -5,6 +5,11 @@ Kaggle Database: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lif
 # Version 0.1
 Dataset management in progress.
 
-# Veersion 0.2
+# Version 0.2
 Data visualization graphics added.
 Data Analysis and feature engineering completed.
+
+# Version 0.3
+Multiple machine learning algorithms applied.
+Accuracy analysis has been done. Results are in between 88 to 92%. The most successful algorithm so far is logistic regression.
+Prediction charts exported.

@@ -1,0 +1,20 @@
+Random Forest Classifier:0.9066666666666666
+Logistic Regression:0.92
+K Nearest Neighbors:0.88
+Gradient Boosting Classifier:0.9066666666666666
+Decision Tree Classifier:0.9066666666666666
+Random Forest Classifier:0.9066666666666666
+Logistic Regression:0.92
+K Nearest Neighbors:0.88
+Gradient Boosting Classifier:0.9066666666666666
+Decision Tree Classifier:0.9066666666666666
+Random Forest Classifier:0.9066666666666666
+Logistic Regression:0.92
+K Nearest Neighbors:0.88
+Gradient Boosting Classifier:0.9066666666666666
+Decision Tree Classifier:0.9066666666666666
+Random Forest Classifier:0.9066666666666666
+Logistic Regression:0.92
+K Nearest Neighbors:0.88
+Gradient Boosting Classifier:0.9066666666666666
+Decision Tree Classifier:0.9066666666666666
